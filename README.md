@@ -1,4 +1,4 @@
-# Makina-renmesi-Ara-dev
+# Makina-Öğrenmesi-Ara-dev
 Türkiye Yapay Zeka Akademisi için verilen ara ödev
 # Makine Öğrenmesi Ara Ödev: Müşteri Ayrılma (Churn) Tahmini
 
